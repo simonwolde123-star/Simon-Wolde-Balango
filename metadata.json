@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Profile README Studio",
+  "description": "Interactive GitHub profile README builder and showcase for software engineers specializing in React, Node.js, modern architecture, and cloud CI/CD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
